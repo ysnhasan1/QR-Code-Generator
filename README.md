@@ -15,12 +15,18 @@ You will also see that the "URLs.txt" file is created. </br>
 This file stores all the URLs users entered.
 
 ## Running JavaScript Code in Terminal using Node
+<div align="center">
 <img src="https://github.com/ysnhasan1/QR-Code-Generator/assets/102024926/7535b297-a9cf-49ed-9ee2-039c342b314f"><br />
+</div>
 
 ## QR Code (Output)
+<div align="center">
 <img src="https://github.com/ysnhasan1/QR-Code-Generator/assets/102024926/a08b0bdc-fd46-47ca-81c0-166a980867d6"><br />
+</div>
 
 ## Current Directory
 * QR Code and txt file has been created in current directory. <br />
 
+<div align="center">
 <img src="https://github.com/ysnhasan1/QR-Code-Generator/assets/102024926/11371ef8-6ffd-4516-8471-8a5988142694">
+</div>
